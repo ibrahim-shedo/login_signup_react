@@ -63,7 +63,7 @@
     color: #4c00b4;
     cursor: pointer;
 }
-.ubmit_container{
+.submit_container{
     display: flex;
     gap: 10px;
     margin: 60px auto;

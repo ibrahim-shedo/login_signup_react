@@ -60,7 +60,5 @@ For any further questions or issues, please refer to the project's documentation
 Credits
 This project was created by [Your Name] and is licensed under the [License Name] License. Feel free to contribute or use it as per the terms of the license.
 
-javascript
-Copy code
 
-Replace `<repository-url>`, `[Your Name]`, and `[License Name]` with the appropriate values
+
